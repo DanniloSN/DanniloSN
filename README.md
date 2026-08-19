@@ -85,12 +85,8 @@
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanniloSN&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Danilo's GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=DanniloSN&theme=github-dark-blue&hide_border=true" alt="Danilo's contribution streak" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanniloSN&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" />
+  <img height="165" src="./profile/stats.svg" alt="Danilo's GitHub statistics" />
+  <img height="165" src="./profile/top-langs.svg" alt="Most used languages" />
 </div>
 
 ## Contribution graph
