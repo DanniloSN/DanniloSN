@@ -17,7 +17,7 @@
 
 ## About me
 
-- 🌎 Based in Nova Serrana, Minas Gerais, Brazil.
+- 🌎 Minas Gerais, Brazil.
 - 🧩 Interested in full-stack web development, games, integrations, and developer tooling.
 - 🌱 Always learning and turning new ideas into projects.
 - 🤝 Open to connecting and collaborating through [GitHub](https://github.com/DanniloSN).
